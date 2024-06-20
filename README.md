@@ -1,8 +1,8 @@
 # Programming-class
-Repositorio para almacenar los ejercicios y ejemplos de la clase de "Pensamiento Computacional para Ingeniería" Semestre AD23
+Repository to have my final project for the class "Computational Thinking for Engineer" 
 
-**Tema del Proyecto:**
+**Theme of the project:**
 
-Mi idea de proyecto se basa en que las personas van a acudir a él para preguntarle por una mejor rutina de skincare, de cabello y de qué pueden hacer para mantener una buena alimentación dependiendo de su tipo de piel, de la forma que quieren tener su cabello y de cual es el goal qué tienen para su alimentación.
+My idea of the project is based on the fact that people are going to come to him to ask him about a better skincare routine, hair and what they can do to maintain a good diet depending on their skin type, the way they want to have their hair and what is the goal they have for their diet.
 
-A mi se me hace interesante esto debido a que varias mujeres en especial adolescentes no saben a dónde acudir para poder obtener este tipo de información o que información es verídica y con este software podrán tener una variedad de información en una sola plataforma.
+I find this interesting because several women, especially teenagers, do not know where to go to get this type of information or what information is true
